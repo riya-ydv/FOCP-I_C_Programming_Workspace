@@ -1,0 +1,25 @@
+# Development and Standardisation of C
+
+## Evolution
+1. BCPL was developed by Martin Richards in 1967.
+2. B was developed by Ken Thompson in 1969.
+3. C was developed by Dennis Ritchie around 1972.
+4. C evolved from the B programming language.
+
+## Standardisation
+Standardisation established common rules for C so that programs could work consistently across different compilers and computer systems.
+
+## Important Versions
+- C89: Standardised by ANSI in 1989.
+- C90: ISO standard published in 1990.
+- C99: Introduced several language improvements.
+- C11: Introduced features including multithreading support.
+- C17/C18: Mainly a correction and clarification update.
+- C23: Newer revision of the C language standard, published in 2024.
+
+## Why C became popular
+1. Efficient and fast.
+2. Supports structured programming.
+3. Provides memory and hardware control.
+4. Useful for system and application programming.
+5. Supports portability across computer systems.

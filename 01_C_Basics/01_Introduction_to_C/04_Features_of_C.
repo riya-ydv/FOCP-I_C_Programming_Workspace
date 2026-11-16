@@ -1,0 +1,19 @@
+# Features of C Programming Language
+
+1. Simple Language: C has a relatively small set of keywords and clear syntax.
+
+2. General-Purpose Language: C can be used to develop operating systems, games, compilers and embedded systems.
+
+3. Structured and Procedural: Programs can be divided into smaller functions to make them easier to understand and maintain.
+
+4. Portability: C programs can be transferred between different computer systems with relatively few modifications.
+
+5. Efficiency and Speed: C is a compiled language known for efficient execution and low runtime overhead.
+
+6. Rich Operators and Libraries: C provides different operators and standard libraries for performing various operations.
+
+7. Pointers and Memory Access: C supports pointers that allow programmers to work with memory addresses.
+
+8. Recursion: A function can call itself to solve a problem.
+
+9. Extensibility: Programs can be expanded by adding new functions and features.
