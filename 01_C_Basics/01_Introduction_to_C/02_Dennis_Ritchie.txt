@@ -1,9 +1,0 @@
-# Dennis Ritchie
-
-1. Dennis MacAlistair Ritchie was an American computer scientist.
-2. He developed the C programming language around 1972.
-3. C was developed at Bell Laboratories.
-4. He made significant contributions to the development of the UNIX operating system.
-5. He worked with Ken Thompson and other researchers.
-6. His work had a major influence on modern computer programming.
-7. C made system programming more efficient and portable.
